@@ -27,6 +27,7 @@ Diary for my experiment with penetration testing tools in different category.
 * [Fern WIFI Cracker](https://github.com/savio-code/fern-wifi-cracker.git) - a Wireless security auditing and attack software program written using the Python
 ## iOS
 * [Detect Location](https://github.com/KrauseFx/detect.location) - An easy way to access the user's iOS location data without actually having access
+* [iOS Security Assessment](https://github.com/mwrlabs/needle) - The iOS Security Testing Framework
 
 ## Car
 * [Charlie Miller and Chris Valasek Car Hacking](http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek Car Hacking
