@@ -20,6 +20,9 @@ Diary for my experiment with penetration testing tools in different category.
 * [IPGeoLocation](https://github.com/maldevel/IPGeoLocation) - Retrieve IP Geolocation Information up to City Accuracy
 * [XShort](https://github.com/troydo42/XShort) - Retrieve opener IP via a shortern link
 
+## OAuth
+* [MITM Proxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy
+
 ## MacOS
 * [Bypass Password](http://apple.stackexchange.com/a/57152/229538) - Login as Admin User into MacBook Pro
 * [Keychain Cracker](https://github.com/macmade/KeychainCracker) - macOS keychain cracking tool.
